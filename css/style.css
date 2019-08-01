@@ -266,6 +266,7 @@ margin-top: 15px;
     transition: 0.4s ease-in-out;
 }
 .btn2:hover {
+	padding: 12px 25px;
     background: #C7AC75;
     box-shadow: 0px 5px 0px red;
     cursor: pointer;
